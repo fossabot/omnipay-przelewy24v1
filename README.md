@@ -3,6 +3,7 @@
 **Przelewy24 API V1 gateway for the Omnipay PHP payment processing library**
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE) ![example workflow](https://github.com/mysiar/omnipay-przelewy24v1/actions/workflows/tests.yml/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmysiar%2Fomnipay-przelewy24v1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmysiar%2Fomnipay-przelewy24v1?ref=badge_shield)
 
 ## API endpoints implemented
 
@@ -86,3 +87,7 @@ $gateway->initialize([
 // or
 $gateway->setLanguage('pl'); 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmysiar%2Fomnipay-przelewy24v1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmysiar%2Fomnipay-przelewy24v1?ref=badge_large)
